@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ezgif.com-gif-maker.mp4
+=======
+https://user-images.githubusercontent.com/121332945/215472501-2a1a27ee-22cc-4697-bd8c-1dbc4b06eaf2.gif
+
+https://github.com/ritu25685/CounterApplication/issues/1#issue-1562318254
+
+>>>>>>> ecc8e3319e12efa52761118c6b89fc1501ba6596
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
